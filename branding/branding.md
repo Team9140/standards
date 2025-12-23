@@ -37,7 +37,13 @@ Primary Black: #181818
 The team logo is comprised of Primary Red and Primary Blue fields with the words ROBO and BOTS overlaid in Google Sans Flex Medium font.
 
 square:
+
 ![square](robobots_logo_square.png)
 
 wide:
+
 ![wide](robobots_logo_wide.png)
+
+FMS avatar:
+
+![avatar](robobots_avatar.png)
