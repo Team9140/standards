@@ -7,7 +7,7 @@ The name of the team is "The Robobots". In written form the team may be referred
 - 9140
 - Team 9140: The Robobots
 
-The team may referred to in any way not included above. Incorrect examples are as follows:
+The team may not be referred to in any way not included above. Incorrect examples are as follows:
 - The RoboBots
 - RoboBots
 - The Robo Bots
@@ -53,6 +53,10 @@ FMS avatar:
 In situations where the logo can not be displayed in color, the alternate greyscale logo should be used. The color logo should not be converted.
 
 TODO: create greyscale logo
+
+## Fonts
+
+The Team Name should be displayed in Google Sans Flex Medium wherever possible. Text in any other written materials should be Arial or a comparable non-serif font.
 
 ## Substitute colors for non-print materials
 
