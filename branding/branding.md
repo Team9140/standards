@@ -50,9 +50,7 @@ FMS avatar:
 
 ![avatar](robobots_avatar.png)
 
-In situations where the logo can not be displayed in color, the alternate greyscale logo should be used. The color logo should not be converted.
-
-TODO: create greyscale logo
+In situations where the logo can not be displayed in color, the alternate greyscale logo robobots_logo_square_mono.png should be used. The color logo should not be converted.
 
 ## Fonts
 
