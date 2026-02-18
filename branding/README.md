@@ -70,8 +70,14 @@ PLA parts printed in red or blue should use eSUN PLA+ in [blue](https://esun3dst
 
 ### Fabric
 
+As of 2026, bumpers are constructed with 1000D® Cordura Nylon in "Red" and "Mariner Blue" from [seattle fabrics](https://www.seattlefabrics.com/60-1000-D-CORDURA%C2%AE-Nylon-1900-linear-yard_p_53.html). 
 
 
 ### Shirts
 
+Competition attire consists of one of these three products in "Deep Royal" or "Deep Red".
+- Hanes Beefy-T cotton [T-shirt](https://www.hanes.com/products/hanes-beefy-t-unisex-heavyweight-cotton-t-shirt/o5180)
+- Hanes EcoSmart [Hoodie](https://www.hanes.com/products/hanes-men-39-s-ecosmart-mid-weight-fleece-hoodie/op170)
+- Hanes EcoSmart [Sweater](https://www.hanes.com/products/hanes-ecosmart-men-s-fleece-sweatshirt-op160/op160)
 
+Red shirts have the text "ROBO" printed on the front in white Google Sans Flex Medium, Blue shirts the text "BOTS". The text is 2.5 inches tall, with the bottom edge of the letters set 2 inches above the opening of the arm holes. Image files of the text are provided in the files [shirt_red.png](shirt_red.png) and [shirt_blue.png](shirt_blue.png). (Files may appear blank in web browser due to white background.)
