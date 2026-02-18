@@ -1,7 +1,3 @@
 # A collection of brand and workmanship standards for FRC Team 9140 The Robobots
 
-[bumpers](https://github.com/Team9140/standards/blob/main/bumpers/bumpers.md)
-
-[batteries](https://github.com/Team9140/standards/blob/main/electronics/battery.md)
-
-[branding](https://github.com/Team9140/standards/blob/main/branding/branding.md)
+Each folder contains one README.md file on the corresponding topic and any relevant attachments.
